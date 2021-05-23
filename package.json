@@ -1,0 +1,24 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caps.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malakMomani/caps.git"
+  },
+  "author": "Malak Momani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malakMomani/caps/issues"
+  },
+  "homepage": "https://github.com/malakMomani/caps#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3",
+    "jest": "^26.6.3"
+  }
+}
